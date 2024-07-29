@@ -1,0 +1,14 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://bcyqdpwwa4wwp"]
+
+[ext_resource type="Texture2D" uid="uid://7tls3fwe58fy" path="res://Tiny Swords/UI/Banners/Banner_Horizontal.png" id="1_hfetg"]
+
+[resource]
+texture = ExtResource("1_hfetg")
+texture_margin_left = 32.0
+texture_margin_top = 16.0
+texture_margin_right = 32.0
+texture_margin_bottom = 48.0
+axis_stretch_horizontal = 2
+axis_stretch_vertical = 2
+region_rect = Rect2(32, 48, 128, 128)
+modulate_color = Color(0.994948, 0.481913, 0.486752, 1)
